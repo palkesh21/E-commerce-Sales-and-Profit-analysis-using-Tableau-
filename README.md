@@ -7,5 +7,22 @@
 3.Created a Dashboard for integrated visualization of Heatmap, Treemap, Scatter plot & Line chart from the Ecommerce dataset
 
 
-## Project Tableau file can be accesed by this link , it was publised in public so that other can view this
+## Project Tableau file can be accesed by this link , it was publised in public by me so that other can view this
+https://public.tableau.com/app/profile/palkesh.bhidodiya/viz/Book1_16600651072630/Dashboard1?publish=yes
+
+## Tableau : Tableau is an excellent data visualization and business intelligence tool used for reporting and analyzing vast volumes of data. It is an American company that started in 2003—in June 2019, Salesforce acquired Tableau. It helps users create different charts, graphs, maps, dashboards, and stories for visualizing and analyzing data, to help in making business decisions. 
+
+## I used Tableau Public, Tableau Public is free to use. They can be saved to Tableau's public cloud,  which anyone can access and view.  https://public.tableau.com/app/profile/palkesh.bhidodiya/viz/Book1_16600651072630/Dashboard1?publish=yes
+
+## Tableau supports powerful data discovery and exploration that enables users to answer important questions in seconds
+In this project I tried to answer following questions 
+Q-1 Analysis the sales and profit by each state? 
+Q-2 Which is top Profitable state?
+Q-3 Analysis sales and profit by category and sub category ?
+Q-4 How do we represnt sales and profit data at the sametime for every state?
+
+
+I have uploaded the data file and , created dashboard in most of the format so that it can be clear.
+
+Recommended to go through via this link to see dashboard :
 https://public.tableau.com/app/profile/palkesh.bhidodiya/viz/Book1_16600651072630/Dashboard1?publish=yes
